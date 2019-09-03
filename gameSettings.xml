@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gameSettings revision='15'>
+  <modsDirectoryOverride active='false' directory='C:/Temp' />
+  <defaultMultiplayerPort>10823</defaultMultiplayerPort>
+  <motorStopTimerDuration>30</motorStopTimerDuration>
+  <horseAbandonTimerDuration>1800</horseAbandonTimerDuration>
+  <invertYLook>false</invertYLook>
+  <isHeadTrackingEnabled>true</isHeadTrackingEnabled>
+  <isGamepadEnabled>true</isGamepadEnabled>
+  <cameraSensitivity>1.000000</cameraSensitivity>
+  <vehicleArmSensitivity>1.000000</vehicleArmSensitivity>
+  <steeringBackSpeed>5.000000</steeringBackSpeed>
+  <inputHelpMode>1</inputHelpMode>
+  <easyArmControl>true</easyArmControl>
+  <player index='1' bodyIndex='1' colorIndex='2' hatIndex='0' hairIndex='1' accessoryIndex='0' jacketIndex='0' name='dacid' />
+  <mpLanguage>0</mpLanguage>
+  <volume>
+    <music>0.700000</music>
+    <vehicle>0.800000</vehicle>
+    <environment>0.800000</environment>
+    <radio>0.500000</radio>
+    <gui>0.500000</gui>
+  </volume>
+  <soundPlayer allowStreams='false' />
+  <radioIsActive>false</radioIsActive>
+  <radioVehicleOnly>true</radioVehicleOnly>
+  <units>
+    <money>1</money>
+    <miles>false</miles>
+    <fahrenheit>false</fahrenheit>
+    <acre>false</acre>
+  </units>
+  <isTrainTabbable>true</isTrainTabbable>
+  <showTriggerMarker>true</showTriggerMarker>
+  <showFieldInfo>true</showFieldInfo>
+  <showHelpIcons>true</showHelpIcons>
+  <showHelpMenu>true</showHelpMenu>
+  <resetCamera>false</resetCamera>
+  <useWorldCamera>true</useWorldCamera>
+  <ingameMapState>0</ingameMapState>
+  <ingameMapFilter>0</ingameMapFilter>
+  <useColorblindMode>false</useColorblindMode>
+  <maxNumMirrors>7</maxNumMirrors>
+  <lightsProfile>4</lightsProfile>
+  <fovY>60.000000</fovY>
+  <uiScale>1.000000</uiScale>
+  <realBeaconLights>true</realBeaconLights>
+</gameSettings>

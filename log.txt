@@ -1,0 +1,185 @@
+GIANTS Engine Runtime 8.0.0 (17801) 64bit (Build Date: Nov 16 2018)
+Copyright (c) 2008-2018, GIANTS Software GmbH (giants-software.com), All Rights Reserved.
+Copyright (c) 2003-2018, Christian Ammann and Stefan Geiger, All Rights Reserved.
+Application: FarmingSimulator2019
+Main System
+  CPU: Intel(R) Core(TM) i5-4460  CPU @ 3.20GHz
+  Memory: 8043 MB
+  OS: Windows NT 10.0 64-bit
+Physics System
+  Version: 5.9.5
+  Thread(s): 2
+Input System
+  Keyboard enabled
+  Mouse enabled
+  Gamepad/Joystick enabled
+  Force Feedback disabled
+Audio System
+  Driver: SoftMixer WASAPI Stereo
+  Version: 1.11
+  Frequency: 48000
+  Max. active sources: 256
+Render System
+  Driver: Direct 3D 11
+  Card Vendor: NVIDIA Corporation
+  Renderer: NVIDIA GeForce GTX 1060 3GB
+  Version: 25.21.14.1935 (1.3.2019)
+  Revision: 161
+  Feature level: DirectX 11
+  Windowed Mode : off
+  V-Sync        : off
+  Effective Window Resolution:  1366 x 768
+Started 2 threads for threadpool 'Render threadpool'
+Hardware Profile
+  Level: Very High (forced)
+  View Distance Factor: 1.300000
+  Shadow Quality: 2.000000 Base-Size: 2048 Filter-Size: 16 Shadow Focus Box true
+  Shader Quality: 3
+  Skip Mipmaps: 0
+  LOD Distance Factor: 1.300000
+  Terrain LOD Distance Factor: 2.000000
+  Terrain Normal Mapping: Yes
+  Foliage View Distance Factor: 1.600000
+  Volume Mesh Tessellation Factor: 0.750000
+  Tyre Tracks Segments Factor: 4.000000
+  Max. Number of Shadow Lights: 5
+  Max. Number of Lights: 512
+  Max. Number of Lights Per Cluster: 32
+  MSAA: 4
+  Bloom Quality: 5
+  SSAO Quality: 15
+  DOF: Enabled
+  Cloud Quality: 4
+  Setting 'Master Volume': 1
+  Setting 'Is Train Tabbable': true
+  Setting 'Radio Vehicle Only': true
+  Setting 'Radio Active': false
+  Setting 'Use Colorblind Mode': false
+  Setting 'Easy Arm Control': true
+  Setting 'Show Trigger Marker': true
+  Setting 'Show Field-Info': true
+  Setting 'Invert Y-Look': false
+  Setting 'Show Help Icons': true
+  Setting 'Radio Volume': 0.5
+  Setting 'Vehicle Volume': 0.80000001192093
+  Setting 'Environment Volume': 0.80000001192093
+  Setting 'GUI Volume': 0.5
+  Setting 'Master Volume': 1
+  Setting 'Music Volume': 0.69999998807907
+Farming Simulator 19 (Steam)
+  Version: 1.1.0.0 b3037
+  Available Languages: en de jp pl cz fr es ru it pt hu nl cs ct br tr ro kr
+  Language: en
+  Time: 2019-06-17 10:22:07
+dataS2/character/humans/characterAnimation.i3d (168.89 ms)
+Load mod: FS19_mahindraRetriever (Version: 1.0.0.0) (Hash: e0afcef487f47e2ae12d52199160141e)
+dataS2/character/humans/pedestrians/pedestrianAnimation.i3d (77.68 ms)
+ 1
+2019-06-17 10:23   Loaded specializations
+2019-06-17 10:23   Loaded vehicle types
+2019-06-17 10:23   Loaded placeable types
+2019-06-17 10:23   Register configuration 'baseColor'
+2019-06-17 10:23   Register configuration 'design'
+2019-06-17 10:23   Register configuration 'designColor'
+2019-06-17 10:23   Register configuration 'vehicleType'
+2019-06-17 10:23   Register workAreaType 'RIDGEMARKER'
+2019-06-17 10:23   Register configuration 'attacherJoint'
+2019-06-17 10:23   Register workAreaType 'WEEDER'
+2019-06-17 10:23   Register workAreaType 'PLOW'
+2019-06-17 10:23   Register workAreaType 'DEFAULT'
+2019-06-17 10:23   Register workAreaType 'AUXILIARY'
+2019-06-17 10:23   Register configuration 'motor'
+2019-06-17 10:23   Register configuration 'frontloader'
+2019-06-17 10:23   Register workAreaType 'FORAGEWAGON'
+2019-06-17 10:23   Register configuration 'baseMaterial'
+2019-06-17 10:23   Register configuration 'designMaterial'
+2019-06-17 10:23   Register configuration 'wrappingColor'
+2019-06-17 10:23   Register configuration 'powerTakeOff'
+2019-06-17 10:23   Register configuration 'trailer'
+2019-06-17 10:23   Register workAreaType 'COMBINECHOPPER'
+2019-06-17 10:23   Register workAreaType 'COMBINESWATH'
+2019-06-17 10:23   Register workAreaType 'FRUITPREPARER'
+2019-06-17 10:23   Register workAreaType 'BALER'
+2019-06-17 10:23   Register configuration 'tensionBelts'
+2019-06-17 10:23   Register workAreaType 'MOWER'
+2019-06-17 10:23   Register workAreaType 'CULTIVATOR'
+2019-06-17 10:23   Register workAreaType 'SPRAYER'
+2019-06-17 10:23   Register configuration 'wheel'
+2019-06-17 10:23   Register configuration 'rimColor'
+2019-06-17 10:23   Register configuration 'pipe'
+2019-06-17 10:23   Register workAreaType 'SOWINGMACHINE'
+2019-06-17 10:23   Register workAreaType 'CUTTER'
+2019-06-17 10:23   Register workAreaType 'WINDROWER'
+2019-06-17 10:23   Register configuration 'inputAttacherJoint'
+2019-06-17 10:23   Register workAreaType 'TEDDER'
+2019-06-17 10:23   Register workAreaType 'ROLLER'
+2019-06-17 10:23   Register configuration 'cover'
+2019-06-17 10:23   Register configuration 'folding'
+2019-06-17 10:23   Register configuration 'fillUnit'
+2019-06-17 10:23   Register configuration 'buyableBaleAmount'
+2019-06-17 10:23   Register configuration 'fillVolume'
+2019-06-17 10:24 data/shared/connectionHoses/hoses.i3d (327.75 ms)
+2019-06-17 10:24 data/shared/connectionHoses/connectors.i3d (231.75 ms)
+2019-06-17 10:24 data/shared/connectionHoses/hoseMaterialHolder.i3d (58.51 ms)
+2019-06-17 10:24 data/sky/sky.i3d (49.09 ms)
+2019-06-17 10:24 data/sky/rain.i3d (48.78 ms)
+2019-06-17 10:24 data/maps/mapUS.i3d (27162.66 ms)
+2019-06-17 10:24 data/foliage/wheat.i3d (269.55 ms)
+2019-06-17 10:24 data/foliage/grassLong.i3d (178.99 ms)
+2019-06-17 10:24 data/foliage/canola.i3d (201.34 ms)
+2019-06-17 10:24 data/foliage/barley.i3d (295.58 ms)
+2019-06-17 10:24 data/foliage/maize.i3d (207.12 ms)
+2019-06-17 10:24 data/foliage/decoFoliage.i3d (893.38 ms)
+2019-06-17 10:24 data/foliage/potato.i3d (201.78 ms)
+2019-06-17 10:24 data/foliage/potatoHaulm.i3d (56.50 ms)
+2019-06-17 10:24 data/foliage/sugarbeet.i3d (127.89 ms)
+2019-06-17 10:24 data/foliage/sugarbeetHaulm.i3d (27.93 ms)
+2019-06-17 10:24 data/foliage/sunflower.i3d (227.62 ms)
+2019-06-17 10:24 data/foliage/soybean.i3d (141.94 ms)
+2019-06-17 10:24 data/foliage/oilseedRadish.i3d (75.84 ms)
+2019-06-17 10:24 data/foliage/poplar.i3d (286.98 ms)
+2019-06-17 10:24 data/foliage/oat.i3d (200.76 ms)
+2019-06-17 10:24 data/foliage/sugarCane.i3d (134.56 ms)
+2019-06-17 10:24 data/foliage/sugarCaneHaulm.i3d (39.05 ms)
+2019-06-17 10:24 data/foliage/cotton.i3d (235.40 ms)
+2019-06-17 10:24 data/foliage/bush01.i3d (250.59 ms)
+2019-06-17 10:24 Warning: transform group 'bushUS01' has elements very far out from the cell edge (29.61% expansion)
+2019-06-17 10:24 data/foliage/weed.i3d (37.67 ms)
+2019-06-17 10:24 data/objects/basketball/basketball.i3d (94.99 ms)
+2019-06-17 10:24 Enabled withering
+2019-06-17 10:24 data/placeables/mapUS/grainSiloRailroad01/grainSiloRailroad01.i3d (38.64 ms)
+2019-06-17 10:24 data/placeables/mapUS/grainSiloRailroad02/grainSiloRailroad02.i3d (22.01 ms)
+2019-06-17 10:24 data/placeables/mapUS/sellingStationGeneric/sellingStationGeneric.i3d (39.09 ms)
+2019-06-17 10:24 data/placeables/mapUS/grainSiloCentral/grainSiloCentral.i3d (20.60 ms)
+2019-06-17 10:24 data/placeables/mapUS/grainSiloPort/grainSiloPort.i3d (15.49 ms)
+2019-06-17 10:24 data/placeables/mapUS/sellingStationBales/sellingStationBales.i3d (31.19 ms)
+2019-06-17 10:24 data/placeables/mapUS/sellingStationWood/sellingStationWood.i3d (10.54 ms)
+2019-06-17 10:24 data/placeables/mapUS/sellingStationWoodChips/sellingStationWoodChips.i3d (7.66 ms)
+2019-06-17 10:24 data/placeables/mapUS/sellingStationWoodHeatingPlant/sellingStationWoodHeatingPlant.i3d (18.61 ms)
+2019-06-17 10:24 data/placeables/mapUS/sellingStationWool/sellingStationWool.i3d (13.00 ms)
+2019-06-17 10:24 data/placeables/mapUS/sellingStationVehicles/sellingStationVehicles.i3d (9.46 ms)
+2019-06-17 10:24 data/placeables/mapUS/gasStation/gasStation.i3d (42.94 ms)
+2019-06-17 10:24 data/placeables/mapUS/trainSystem/trainSystem.i3d (138.82 ms)
+2019-06-17 10:24 data/placeables/mapUS/bga/bga.i3d (110.26 ms)
+2019-06-17 10:24 data/placeables/mapUS/waterFillTriggers/waterFillTriggers.i3d (26.67 ms)
+2019-06-17 10:24 data/placeables/limeStation/limeStation.i3d (226.10 ms)
+2019-06-17 10:24 data/vehicles/train/locomotive04/locomotive04.i3d (563.56 ms)
+2019-06-17 10:24 data/vehicles/train/wagonGrain/wagonGrain.i3d (485.01 ms)
+2019-06-17 10:24 data/vehicles/train/wagonWoodChips/wagonWoodChips.i3d (53.46 ms)
+2019-06-17 10:24 data/vehicles/train/wagonTimber/wagonTimber.i3d (30.81 ms)
+2019-06-17 10:24 data/vehicles/train/wagonSugarbeets/wagonSugarbeets.i3d (25.52 ms)
+2019-06-17 10:24 data/vehicles/train/wagonVehicles/wagonVehicles.i3d (13.60 ms)
+2019-06-17 10:24 data/store/ui/shop.i3d (551.29 ms)
+2019-06-17 10:24 data/shared/materialHolders/glowEffectMaterialHolder.i3d (0.28 ms)
+2019-06-17 10:24 data/store/ui/cube.i3d (9.54 ms)
+2019-06-17 10:24 data/store/ui/sphere.i3d (25.86 ms)
+2019-06-17 10:25 dataS2/character/humans/player/player01.i3d (354.70 ms)
+2019-06-17 10:25   Setting 'Radio Volume': 0.5
+2019-06-17 10:25   Setting 'Vehicle Volume': 0.80000001192093
+2019-06-17 10:25   Setting 'Environment Volume': 0.80000001192093
+2019-06-17 10:25   Setting 'GUI Volume': 0.5
+2019-06-17 10:25 dataS2/character/crow/crow.i3d (62.11 ms)
+2019-06-17 10:25  1
+2019-06-17 10:26  1
+2019-06-17 10:27 Application exit request forced.
+2019-06-17 10:27 Application exit request forced.
